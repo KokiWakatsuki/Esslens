@@ -1,0 +1,3 @@
+[submodule "company"]
+	path = company
+	url = https://github.com/KokiWakatsuki/company.git
